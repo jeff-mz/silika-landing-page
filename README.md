@@ -4,8 +4,7 @@ A responsive landing page for Silika ai
 
 ## Screenshots
 
-![App Screenshot](siika-landing-page/src/assets/deign/Silika Artificial
-Intelligence Landing Page Design.png)
+![App Screenshot](./src/assets/deign/Silika%20Artificial%20Intelligence%20Landing%20Page%20Design.png)
 
 ## Made with
 
